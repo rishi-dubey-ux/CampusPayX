@@ -1,0 +1,25 @@
+{
+  "name": "campuspayx-main",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">   <h1>🚀 CampusPayX</h1>   <p><strong>A QR-based digital mess payment system for fast, cashless, and transparent campus transactions.</strong></p> </div>",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piyushbxr802123-prog/CampusPayX.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/piyushbxr802123-prog/CampusPayX/issues"
+  },
+  "homepage": "https://github.com/piyushbxr802123-prog/CampusPayX#readme",
+  "dependencies": {
+    "dotenv": "^17.4.1",
+    "mongoose": "^9.4.1"
+  }
+}
